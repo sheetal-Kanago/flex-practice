@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+main{
+  width: 90%;
+  height: 500px;
+  border: 2px solid black;
+  margin: 50px auto;
+  display: flex;
+  flex-direction: column;
+  justify-content:space-around;
+  flex-wrap: wrap;
+  align-items: center;
+  
+}
