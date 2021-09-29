@@ -31,7 +31,7 @@ main{
  
 }
 .LHP{
-  flex-grow: 2;
+  width: 60%;
  
 }
 .LHP>div{
@@ -41,7 +41,7 @@ main{
 }
 .RHP{
   border: 2px solid black;
-  flex-grow: 1;
+  width: 40%;
   margin: 10px;
   padding: 10px;
   word-wrap: normal; 
